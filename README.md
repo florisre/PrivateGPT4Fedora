@@ -1,6 +1,6 @@
 ## How to Install
 
-. Install `python-poetry` and `pyenv`
+. Install `python-poetry`, `pyenv`, `gcc`, and `g++`.
 
 . Run the corresponding commands below.
 
